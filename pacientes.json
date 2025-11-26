@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Carlos Gómez",
+        "peso": 72,
+        "altura": 1.68,
+        "gordura": 22
+    },
+    {
+        "nombre": "Laura Pérez",
+        "peso": 60,
+        "altura": 1.60,
+        "gordura": 20
+    },
+    {
+        "nombre": "Juan Torres",
+        "peso": 85,
+        "altura": 1.75,
+        "gordura": 25
+    }
+]
